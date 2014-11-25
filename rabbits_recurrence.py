@@ -1,5 +1,5 @@
-from sys import argv
-script, from_file, to_file = argv
+#from sys import argv
+#script, from_file, to_file = argv
 
 # This program takes 2 input variables: n,k
 # n is number of iterations or months, k is the number of breeding pairs produced by each breeding pair
